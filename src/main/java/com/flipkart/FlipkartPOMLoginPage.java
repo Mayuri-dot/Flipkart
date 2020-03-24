@@ -31,10 +31,7 @@ public class FlipkartPOMLoginPage {
 		PageFactory.initElements(driver, this);
 	}
 	
-//	public void login1()
-//	{
-//		login.click();
-//	}
+
 	
 	public void userid1(String data)
 	{
